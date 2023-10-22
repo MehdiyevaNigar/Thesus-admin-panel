@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.container {
+    width: 100%;
+    padding: 0 120px;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+body {
+    font-family: "Atak", sans-serif;
+}
